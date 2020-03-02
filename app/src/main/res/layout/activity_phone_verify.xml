@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PhoneVerify"
+    android:background="@color/colorLogin"
+    android:orientation="vertical">
+    
+    
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Verify Mobile"
+        android:textColor="@android:color/white"
+        android:fontFamily="@font/josefin_bold"
+        android:textSize="60sp"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:textSize="25sp"
+        android:layout_gravity="center"
+        android:backgroundTint="#33ffffff"
+        android:ems="10"
+        android:fontFamily="@font/josefin_regular"
+        android:hint="Enter mobile number"
+        android:inputType="number"
+        android:textColor="@android:color/white"
+        android:textColorHint="@android:color/white"
+        android:id="@+id/verifynum"
+         />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_background"
+        android:fontFamily="@font/josefin_bold"
+        android:text="Send Code"
+        android:layout_gravity="center"
+        android:textColor="@android:color/white"
+        android:textSize="15sp"
+        android:layout_marginTop="10dp"
+        android:paddingEnd="5dp"
+        android:paddingStart="5dp"
+        android:id="@+id/sendcode"
+        android:enabled="false"
+       />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_background"
+        android:fontFamily="@font/josefin_bold"
+        android:text="Resend"
+        android:enabled="false"
+        android:layout_gravity="center"
+        android:textColor="@android:color/white"
+        android:textSize="15sp"
+        android:layout_marginTop="10dp"
+        android:paddingEnd="5dp"
+        android:paddingStart="5dp"
+        android:id="@+id/resend"
+        />
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:textSize="25sp"
+        android:layout_gravity="center"
+        android:backgroundTint="#33ffffff"
+        android:ems="10"
+        android:fontFamily="@font/josefin_regular"
+        android:hint="Enter Code"
+        android:inputType="number"
+        android:textColor="@android:color/white"
+        android:textColorHint="@android:color/white"
+        android:id="@+id/code"
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_background"
+        android:fontFamily="@font/josefin_bold"
+        android:text="Verify"
+        android:layout_gravity="center"
+        android:textColor="@android:color/white"
+        android:textSize="15sp"
+        android:layout_marginTop="10dp"
+        android:paddingEnd="5dp"
+        android:paddingStart="5dp"
+        android:id="@+id/verify"
+        android:enabled="false"/>
+
+</LinearLayout>

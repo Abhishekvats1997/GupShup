@@ -3,7 +3,7 @@ A Self Made Chat App for Android
 Implemented using firebase and no other Libraries
 
 Login Screen
-![image](https://user-images.githubusercontent.com/34895307/78850450-e2316f00-7a34-11ea-9c44-7dda4f50d5cd.png | width=50)
+![image](https://user-images.githubusercontent.com/34895307/78850450-e2316f00-7a34-11ea-9c44-7dda4f50d5cd.png|width=50)
 
 Sign Up Screen
 ![image](https://user-images.githubusercontent.com/34895307/78850489-fd03e380-7a34-11ea-99c5-41f44dfc42f5.png)

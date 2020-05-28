@@ -22,3 +22,5 @@ Chat Screen
 
 ![image](https://github.com/Abhishekvats1997/GupShup/blob/master/Screenshots/chat.jpg)
 
+#License
+https://github.com/Abhishekvats1997/GupShup/blob/master/LICENSE.md

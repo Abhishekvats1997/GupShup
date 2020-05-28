@@ -1,4 +1,7 @@
-# GupShup
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com)
+
+## GupShup
 A Self Made Chat App for Android 
 Implemented using firebase and no other Libraries
 

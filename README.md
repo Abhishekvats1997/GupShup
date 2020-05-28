@@ -8,7 +8,7 @@ Implemented using firebase and no other Libraries
 Login Screen
 
 
-![image](https://github.com/Abhishekvats1997/GupShup/blob/master/Screenshots/Login.jpg)
+![image](https://github.com/Abhishekvats1997/GupShup/blob/master/Screenshots/Login.jpg|width=50)
 
 Sign Up Screen
 
